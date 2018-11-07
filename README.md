@@ -1,3 +1,3 @@
 # CMPS165-final-project
 
-[https://wcoatesucsc.github.io/CMPS165-final-project/](https://wcoatesucsc.github.io/CMPS165-final-project/)
+Head to this link for a live webpage of the visualization: [https://kusdhill.github.io/tradewar/index](https://kusdhill.github.io/tradewar/index)
